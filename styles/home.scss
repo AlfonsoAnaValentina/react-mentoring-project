@@ -1,3 +1,17 @@
-h1 {
-  color: tomato;
+body {
+  font-family: Tahoma, sans-serif;
+  margin: 0;
+}
+
+.header-div {
+  background-color: blue;
+  height: 40px
+}
+.main-div {
+  background-color: red;
+  height: 400px;
+}
+.footer-div {
+  background-color: yellow;
+  height: 60px;
 }
